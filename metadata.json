@@ -1,0 +1,7 @@
+{
+  "name": "OsoOS - Las Hamburguesas del Oso",
+  "description": "Un sistema operativo moderno para gestionar la hamburguesería 'Las Hamburguesas del Oso', con IA integrada, gestión de pedidos y geolocalización.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
